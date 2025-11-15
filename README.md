@@ -2,5 +2,5 @@
 A simple tool
 
 #### Overview 
-![logic]([path/to/image.jpg](https://github.com/mihir1493/emap_violation_tool/blob/main/emap_violation_overview.png "Optional image title")
+![logic](https://github.com/mihir1493/emap_violation_tool/blob/main/emap_violation_overview.png)
 
