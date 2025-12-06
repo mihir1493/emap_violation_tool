@@ -1,6 +1,6 @@
 # EMAP_VIOLATION_TOOL
 A simple tool to flag 3P across ecommerce websites
-Issue: Unauthorized 3rd-party resellers buy products in bulk (often from Costco, Sam’s Club, or regional distributors) and then resell them on Amazon, eBay, Walmart.com, etc. undercutting official pricing and damaging brand control.
+Issue: Unauthorized 3rd-party resellers buy products in bulk (often from Costco, Sam’s Club, or regional distributors) and then resell them on Amazon, eBay, Walmart.com, etc. undercutting official pricing and damaging brand equity.
 
 ### Overview 
 ![logic](https://github.com/mihir1493/emap_violation_tool/blob/main/emap_violation_overview.png)
